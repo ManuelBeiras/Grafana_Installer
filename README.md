@@ -3,7 +3,7 @@
 Descargar y convertir en ejecutable:
 
 ```bash
-curl -O https://raw.githubusercontent.com/ManuelBeiras/Grafana-Installer/main/instalar_Grafana.sh
+curl -O https://raw.githubusercontent.com/ManuelBeiras/Grafana_Installer/main/instalar_Grafana.sh
 chmod +x instalar_Grafana.sh
 ```
 Ejecutar:
