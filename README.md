@@ -11,3 +11,4 @@ Ejecutar:
 ```sh
 .instalar_Grafana.sh
 ```
+ToDo: Instalación con Centos
