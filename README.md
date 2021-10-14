@@ -1,4 +1,4 @@
-# Grafana_Installer ✅ ![](https://progress-bar.dev/90/?title=Ubuntu) ✅ ![](https://progress-bar.dev/0/?title=Centos)
+# Grafana_Installer ✅ ![](https://progress-bar.dev/90/?title=Ubuntu) ✅ ![](https://progress-bar.dev/10/?title=Centos)
 
 Descargar y convertir en ejecutable:
 
