@@ -12,6 +12,7 @@
 ##			Rubén Míguez Bouzas										                                   ##
 ##			Luis Mera Castro										                                   ##
 #########################################################################################################
+
 # Comprobación inicial que valida si se es root y si el sistema operativo es Ubutu
 function initialCheck() {
   if ! isRoot; then
