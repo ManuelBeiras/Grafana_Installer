@@ -4,11 +4,11 @@ Descargar y convertir en ejecutable:
 
 ```bash
 curl -O https://raw.githubusercontent.com/ManuelBeiras/Grafana_Installer/main/instalar_Grafana.sh
-chmod +x instalar_Grafana.sh
+chmod +x instalar_grafana.sh
 ```
 Ejecutar:
 
 ```sh
-.instalar_Grafana.sh
+.instalar_grafana.sh
 ```
 ToDo: Instalación con Centos
